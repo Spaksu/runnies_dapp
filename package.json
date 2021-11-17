@@ -1,9 +1,9 @@
 {
-  "name": "Runnies_dapp",
+  "name": "Runnies_Dapp",
   "version": "1.0.0",
   "description": "Runnies minting dapp.",
   "private": true,
-  "homepage": "hhttps://spaksu.github.io/runnies_dapp",
+  "homepage": "https://spaksu.github.io/runnies_dapp/",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "react": "^17.0.2",
