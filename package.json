@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Runnies minting dapp.",
   "private": true,
-  "homepage": "https://spaksu.github.io",
+  "homepage": "hhttps://spaksu.github.io/runnies_dapp",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "react": "^17.0.2",
