@@ -18,7 +18,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://spaksu.github.io/runnies_dapp",
+  "start_url": ".",
+  "homepage": "https://spaksu.github.io/runnies_dapp",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
