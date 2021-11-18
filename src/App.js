@@ -201,7 +201,7 @@ function App() {
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
         image={CONFIG.SHOW_BACKGROUND ? "/runnies_dapp/config/images/bg.png" : null}
       >
-        <StyledLogo alt={"logo"} src={"/runnies_dapp/config/images/logo.png"} />
+        <StyledLogo alt={"logo"} style={"width=1000px;"} src={"/runnies_dapp/config/images/logo.png"} />
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 44 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
