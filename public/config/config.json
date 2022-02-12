@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x852529d1e1a2d1185fb4a12c87c4dfa32d340695",
-  "SCAN_LINK": "https://etherscan.io/token/0x852529d1e1a2d1185fb4a12c87c4dfa32d340695",
+  "CONTRACT_ADDRESS": "0xecd093ed38449d8d64bb015d97072bdcaa594832",
+  "SCAN_LINK": "https://polygonscan.com/token/0xecd093ed38449d8d64bb015d97072bdcaa594832",
   "NETWORK": {
-    "NAME": "Ethereum Mainnet",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "Polygon Mainnet",
+    "SYMBOL": "Matic",
+    "ID": 137
   },
-  "NFT_NAME": "Spax",
-  "SYMBOL": "SPAX",
+  "NFT_NAME": "Runnies",
+  "SYMBOL": "RUNNIES",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 100000000000000000,
-  "DISPLAY_COST": 0.01,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.0001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/spax-official",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/runnies",
   "SHOW_BACKGROUND": false
 }
